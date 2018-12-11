@@ -9,14 +9,21 @@
 
     <url>
         <loc>http://susurrosdemilpensamientos.github.io/categories/Vida/</loc>
-        <lastmod>2018-12-11T07:58:16.743Z</lastmod>
+        <lastmod>2018-12-11T08:00:44.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://susurrosdemilpensamientos.github.io/categories/Sentimientos/</loc>
-        <lastmod>2018-12-11T07:58:16.743Z</lastmod>
+        <lastmod>2018-12-11T08:00:44.930Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://susurrosdemilpensamientos.github.io/categories/Mundo/</loc>
+        <lastmod>2018-12-11T08:00:44.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
