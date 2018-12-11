@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>http://susurrosdemilpensamientos.github.io/post-sitemap.xml</loc>
-        <lastmod>2018-12-11T07:20:50.527Z</lastmod>
+        <lastmod>2018-12-11T07:35:32.819Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://susurrosdemilpensamientos.github.io/page-sitemap.xml</loc>
+        <lastmod>2018-12-11T07:35:32.819Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://susurrosdemilpensamientos.github.io/category-sitemap.xml</loc>
-        <lastmod>2018-12-11T07:20:50.523Z</lastmod>
+        <lastmod>2018-12-11T07:35:32.819Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://susurrosdemilpensamientos.github.io/tag-sitemap.xml</loc>
-        <lastmod>2018-12-11T07:20:50.523Z</lastmod>
+        <lastmod>2018-12-11T07:35:32.819Z</lastmod>
     </sitemap>
 
 </sitemapindex>
