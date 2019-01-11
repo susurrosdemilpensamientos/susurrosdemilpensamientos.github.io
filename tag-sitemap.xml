@@ -4,21 +4,28 @@
 
     <url>
         <loc>http://susurrosdemilpensamientos.github.io/tags/Vida/</loc>
-        <lastmod>2019-01-11T16:29:11.202Z</lastmod>
+        <lastmod>2019-01-11T16:45:14.997Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://susurrosdemilpensamientos.github.io/tags/pensamientos/</loc>
+        <lastmod>2019-01-11T16:45:14.997Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://susurrosdemilpensamientos.github.io/tags/Sentimientos/</loc>
-        <lastmod>2019-01-11T16:29:11.202Z</lastmod>
+        <lastmod>2019-01-11T16:45:14.997Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://susurrosdemilpensamientos.github.io/tags/Mundo/</loc>
-        <lastmod>2019-01-11T16:29:11.202Z</lastmod>
+        <lastmod>2019-01-11T16:45:14.997Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
